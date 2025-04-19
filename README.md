@@ -106,3 +106,9 @@ Para o desenvolvimento do sistema de armazenamento e análise dos dados coletado
 - Id setor
 - Volume irrigação
 - Data
+
+<br>
+
+![Modelo Lógico vpd](https://github.com/user-attachments/assets/febdaa2f-80c1-47d7-8c7a-f3263fc97725)
+
+
