@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DER_CAP1" id="F659BBDC-C0F5-D610-F1BF-00601FA191E5" version="3.5">
+<createdBy>Yuki_</createdBy>
+<createdTime>2025-04-20 18:54:14 UTC</createdTime>
+<ownerDesignName>DER_CAP1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F659BBDC-C0F5-D610-F1BF-00601FA191E5</designId>
+</OSDM_Design>
