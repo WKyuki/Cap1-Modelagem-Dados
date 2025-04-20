@@ -76,7 +76,13 @@ Para o desenvolvimento do sistema de armazenamento e análise dos dados coletado
 
 - Id sensor
 - Id setor
-- Tipo
+- Tipo do sensor
+
+**-> Tipo do sensor:**
+- O tipo do sensor será definido por um campo VARCHAR, podendo ser:
+  -- "umidade"
+  -- "ph"
+  -- "nutriente"
 
 #### Medições
 
@@ -92,6 +98,11 @@ Para o desenvolvimento do sistema de armazenamento e análise dos dados coletado
 - Volume aplicação
 - Data
 
+**-> Tipo da aplicação:**
+- O tipo da aplicação será definido por um campo VARCHAR, podendo ser:
+  -- "fosforo"
+  -- "potassio"
+
 #### Irrigações
 
 - Id correção de pH
@@ -106,6 +117,12 @@ Para o desenvolvimento do sistema de armazenamento e análise dos dados coletado
 - Id setor
 - Volume irrigação
 - Data
+
+**-> Tipo da correção:**
+- O tipo da aplicação será definido por um campo VARCHAR, podendo ser:
+  -- "calcario"
+  -- "cal hidratada"
+  -- "enxofre"
 
 <br>
 
