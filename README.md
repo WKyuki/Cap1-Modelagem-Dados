@@ -9,10 +9,26 @@ Para o desenvolvimento do sistema de armazenamento e análise dos dados coletado
 - Cada cultura terá os valores ideais de pH, umidade e nutrientes, que serão utilizados para determinar se os valores medidos pelo sensor demandam alguma ação.
 - Os sensores irão realizar as medições determinando a data e hora de cada medição, assim como os valores medidos.
 - Todas ações realizadas em cada setor serão registradas, podendo ser: irrigação, aplicação de nutrientes e correção de pH.
-- Para todas as ações realizadas, a data e hora dever]ao ser salvas.
+- Para todas as ações realizadas, a data e hora deverão ser salvas.
 - Poderão ser aplicados dois tipos de nutrientes: fósforo ou potássio.
 - A correção de pH poderá ser de três tipos distintos, sendo as aplicações de: calcário, cal hidratada ou enxofre.
 
+**-> Informações relevantes a serem analisadas:**<br>
+
+- Quantidade de água gasta em um determinado período.
+- Dados necessários: volume de água irrigado; data de cada aplicação.
+
+- Quantidade de nutrientes aplicados em um determinado período:
+- Dados necessários: quantidade de nutrientes aplicados; data de cada aplicação.
+
+- Necessidade de aplicação de nutrientes:
+- Dados necessários: valores mínimo e máximo ideais para o cultivo da cultura; valor medido do nutriente na plantação.
+
+- Necessidade de irrigação:
+- Dados necessário: valores mínimo e máximo ideais de umidade para o cultivo da cultura; valor medido de umidade na plantação.
+
+- Necessidade de correção de pH:
+- Dados necessários: valores mínimo e máximo ideais de pH para o cultivo da cultura; valor de pH medido na plantação
 
 ## Modelo Entidade Relacionamento
 
